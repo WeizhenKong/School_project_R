@@ -1,5 +1,3 @@
-# Assignment 3 answers
-
 # Read data
 df <- read.csv('https://s3.amazonaws.com/programmingforanalytics/footballkicks.csv')
 
