@@ -1,5 +1,3 @@
-# Assignment 4 answers
-
 #********************Part A********************************
 # Using ggplot, plot the logistic models for his performance in matches as well as in practice in a single plot 
 # Make sure that the plot has a title, labels for X and Y axes, and a legend
