@@ -1,5 +1,3 @@
-# Assignment 5: Solutions
-
 # Read data
 mydf <- read.csv('SalesPerformance.csv')
 mydf
